@@ -13,4 +13,5 @@ test.sh
 SysbenchDockerfile
 SysbenchDockerfile.dockerignore
 sysbench-runner-tests-entrypoint.sh
-config.json
+config.json\
+.scannerwork
